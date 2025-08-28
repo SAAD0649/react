@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Cards.css";
 
 export default function Cards() {
   return (
@@ -7,20 +7,19 @@ export default function Cards() {
       <div className="element">
         <h2>Crazy energy</h2>
         <p>But I must explain to you how all this mi denouncing pleasure</p>
-        <div className="arrow"><a href="#">➔</a></div>
+        <div className="arrow"><a href="/">➔</a></div>
       </div>
-
       <div className="element2">
         <h2>Maximum power</h2>
         <p>But I must explain to you how all this mi denouncing pleasure</p>
-        <div className="arrow"><a href="#">➔</a></div>
+        <div className="arrow"><a href="/">➔</a></div>
       </div>
-
       <div className="element">
         <h2>Quality health</h2>
         <p>But I must explain to you how all this mi denouncing pleasure</p>
-        <div className="arrow"><a href="#">➔</a></div>
+        <div className="arrow"><a href="/">➔</a></div>
       </div>
     </section>
   );
 }
+

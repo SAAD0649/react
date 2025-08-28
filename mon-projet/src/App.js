@@ -1,10 +1,10 @@
 // App.jsx (ou App.js)
 import './App.css';              // ✅ pas de "from"
-import Header   from './Header';  // ✅ composants
-import Hero     from './Hero';
-import Cards    from './Cards';
-import Products from './Products';
-import Footer   from './Footer';
+import Header   from './header/Header';  // ✅ composants
+import Hero     from './Hero/Hero';
+import Cards    from './Cards/Cards';
+import Products from './Products/Products';
+import Footer   from './Footer/Footer';
 
 function App() {
   return (

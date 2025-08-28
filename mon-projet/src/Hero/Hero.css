@@ -1,0 +1,6 @@
+.content { margin-top:90px; margin-left:30px; display:flex; height:740px; gap:0; }
+.desc { font-size:85px; width:660px; font-family:sans-serif; font-weight:600; margin-top:150px; }
+.boost { color:greenyellow; }
+.p a { padding:20px 50px; background:red; color:#fff; font-weight:600; font-size:17px; }
+.p a:hover { background:#303030; }
+.content img { width:700px; height:740px; }

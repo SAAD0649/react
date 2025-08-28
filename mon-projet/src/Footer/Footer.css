@@ -1,0 +1,9 @@
+footer { background:#303030; display:flex; padding:90px 20px; margin-top:90px; font-family:Arial,sans-serif; color:white; }
+.line1 { width:400px; }
+.line1 p { color:darkgrey; }
+.line2 a { display:block; margin:20px 0 0 140px; font-size:20px; color:white; }
+.line2 a:hover { color:red; }
+.line3 { margin-left:200px; color:darkgrey; }
+.subscribe { background:red; border:0; padding:10px 20px; color:white; font-size:18px; margin-top:10px; }
+.loca { display:flex; gap:10px; margin-top:20px; }
+.loca img { width:30px; height:20px; }

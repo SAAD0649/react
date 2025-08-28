@@ -1,0 +1,8 @@
+.cards { display:flex; margin:0 30px; font-family:Arial,sans-serif; }
+.element { background:#303030; width:500px; color:white; }
+.element2 { width:500px; background:dimgrey; height:300px; color:white; }
+.cards h2 { margin-left:20px; margin-top:130px; font-size:28px; }
+.cards p { width:300px; margin-left:20px; color:darkgrey; font-size:17px; }
+.arrow { display:flex; justify-content:flex-end; }
+.arrow a { background:red; width:40px; color:white; text-align:center; }
+.arrow a:hover { color:#303030; }

@@ -1,0 +1,53 @@
+header {
+  margin: 0 30px;
+  display: flex;
+  gap: 20px;
+  font-family: sans-serif;
+}
+header h2 {
+  font-size: 37px;
+}
+
+.ul {
+  display: flex;
+  list-style: none;
+  gap: 26px;
+  margin-top: 43px;
+  justify-content: center;
+  width: 640px;
+}
+
+.navbar2 {
+  width: 270px;
+  margin-left: 70px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ul2 {
+  display: flex;
+  list-style: none;
+  gap: 26px;
+  margin-top: 43px;
+  justify-content: center;
+  width: 640px;
+}
+
+/* Dropdown */
+.dropDown {
+  display: none;
+  position: absolute;
+}
+.list:hover .dropDown {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 300px;
+  padding: 10px 0 15px 30px;
+}
+.dropDown a {
+  color: black;
+}
+.dropDown a:hover {
+  color: red;
+}
