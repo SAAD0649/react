@@ -1,7 +1,6 @@
 import React from "react";
 
-
-const items = [
+const items =  [
   {
     tag: "SALE",
     img: "https://ld-wp73.template-help.com/tf/demo_biona/biona_demo_v1/wp-content/uploads/2021/05/prod8.png",
